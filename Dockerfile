@@ -11,4 +11,3 @@ RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \
 # install stuff
 RUN apt-get update -y && \
     apt-get install -y dotnet-sdk-3.1 yarn
-ADD . /app
