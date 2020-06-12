@@ -1,3 +1,3 @@
 # docker-base
 
-Base docker image for building sledilnik website
+Base docker image for building treker.mk website
